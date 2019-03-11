@@ -1,0 +1,12 @@
+E:\Escuela\8-Semestre\Inteligencia 2\Perceptron\Perceptron\Perceptron\bin\Debug\Perceptron.exe.config
+E:\Escuela\8-Semestre\Inteligencia 2\Perceptron\Perceptron\Perceptron\bin\Debug\Perceptron.exe
+E:\Escuela\8-Semestre\Inteligencia 2\Perceptron\Perceptron\Perceptron\bin\Debug\Perceptron.pdb
+E:\Escuela\8-Semestre\Inteligencia 2\Perceptron\Perceptron\Perceptron\bin\Debug\MaterialSkin.dll
+E:\Escuela\8-Semestre\Inteligencia 2\Perceptron\Perceptron\Perceptron\obj\Debug\Perceptron.csprojAssemblyReference.cache
+E:\Escuela\8-Semestre\Inteligencia 2\Perceptron\Perceptron\Perceptron\obj\Debug\Perceptron.Form1.resources
+E:\Escuela\8-Semestre\Inteligencia 2\Perceptron\Perceptron\Perceptron\obj\Debug\Perceptron.Properties.Resources.resources
+E:\Escuela\8-Semestre\Inteligencia 2\Perceptron\Perceptron\Perceptron\obj\Debug\Perceptron.csproj.GenerateResource.cache
+E:\Escuela\8-Semestre\Inteligencia 2\Perceptron\Perceptron\Perceptron\obj\Debug\Perceptron.csproj.CoreCompileInputs.cache
+E:\Escuela\8-Semestre\Inteligencia 2\Perceptron\Perceptron\Perceptron\obj\Debug\Perceptron.csproj.CopyComplete
+E:\Escuela\8-Semestre\Inteligencia 2\Perceptron\Perceptron\Perceptron\obj\Debug\Perceptron.exe
+E:\Escuela\8-Semestre\Inteligencia 2\Perceptron\Perceptron\Perceptron\obj\Debug\Perceptron.pdb
